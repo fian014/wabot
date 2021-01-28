@@ -54,7 +54,7 @@ Script ini di modifikasi sama saya sendiri Fian014.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/A187ID/AR15BOT
+> git clone https://github.com/fian014/wabot
 > cd wabot
 > bash install.sh
 > node index js
